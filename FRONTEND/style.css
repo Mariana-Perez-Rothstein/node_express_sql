@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+    align-items: center;
+}
+
+form {
+    width: 500px;
+    padding: 2%;
+    color: #fff;
+    background-color: rgb(183, 41, 86);
+    box-shadow: 5px 5px 10px rgb(82, 82, 82);
+  }
+  
+
+  
+  input {
+    width: 100%;
+    padding: 7px;
+    border: 0;
+    outline: 0;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  
+  div{
+    font-size: x-large;
+  }
